@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NuageRoue
-- 👀 I’m interested in video-game development 
+- 👀 I’m interested in video-game development
 - 🌱 I’m currently learning python, C# and C++
-- 📫 you can reach me on discord, NuageRoue#1580
-- I don't have nothing else to say, so...
+- 📫 you can reach me on discord, NuageRoue#1580 or with my academic mail, clement.oliveira@etudiant.univ-rennes1.fr
